@@ -1,4 +1,7 @@
 Data	Horas	Tipo	  	Descrição
+
+05/04	2	Estudo		Definição dos requisitos
+
 08/04	1	Estudo		Instalação do Arcabouço
 
 12/04	4	Estudo		Leitura sobre o Arcabouço e testes
