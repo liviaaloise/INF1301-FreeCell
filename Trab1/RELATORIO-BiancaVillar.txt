@@ -1,1 +1,5 @@
-Data		Horas		Tipo		Descrição08/03		1		Estudo		Instalação do Arcabouço13/04		4		Estudo		Leitura sobre o arcabouço						
+Data		Horas		Tipo	  	Descri√ß√£o
+08/03		1		    Estudo		Instala√ß√£o do Arcabou√ßo
+
+13/04		4		    Estudo		Leitura sobre o arcabou√ßo
+						
