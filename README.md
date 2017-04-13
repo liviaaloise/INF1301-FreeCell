@@ -2,5 +2,5 @@
 Trabalho de programacao modular 17.1 
 
 GRUPO: 
-* Bianca
+* Bianca Villar
 * André
